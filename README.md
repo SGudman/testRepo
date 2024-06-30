@@ -1,1 +1,1 @@
-Link to the cv
+https://SGudman.github.io/rsschool-cv/cv
